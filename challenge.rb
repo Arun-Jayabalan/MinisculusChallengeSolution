@@ -1,5 +1,4 @@
 ##### MINISCULUS CHALLENGE - SOLUTION #######
-#### Using one of the http client  like fiddler, Dev http client or CURL get the responses  ####
 require 'rest-client'
 require 'json'
 
